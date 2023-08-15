@@ -20,7 +20,7 @@ I've built a web application that showcases my proficiency in combining Django f
 
 As a mobile app enthusiast, I've developed a cross-platform mobile application using Flutter. This project is a testament to my skills in building visually appealing and responsive mobile apps that work seamlessly on both iOS and Android platforms.
 
-[Github Repository]([link-to-repo](https://github.com/risuicpc/attendance))
+[Github Repository]([[link-to-repo](https://github.com/risuicpc/attendance)]())
 
 ### Cloud Deployment Expertise
 
@@ -32,6 +32,6 @@ Apart from professional development, I enjoy solving algorithmic challenges and 
 
 ## Get in Touch
 
-I'm always open to connecting with fellow developers, sharing experiences, and collaborating on exciting projects. Feel free to reach out to me through [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/mustefa-kamil-912576185/)).
+I'm always open to connecting with fellow developers, sharing experiences, and collaborating on exciting projects. Feel free to reach out to me through [LinkedIn]([[link-to-linkedin](https://www.linkedin.com/in/mustefa-kamil-912576185/)]()).
 
 Looking forward to exploring new opportunities and learning from the vast world of software development!
