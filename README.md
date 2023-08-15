@@ -1,4 +1,4 @@
-# Welcome to My Profile!
+<h1 align="center">👋 Hello, ሰላም</h1>
 
 ## About Me
 
@@ -9,6 +9,20 @@ Hello there! I'm Mustefa Kamil, a passionate software engineer with a strong bac
 - Backend: Python, Django, Django Rest Framework, FastAPI
 - Frontend: React, Flutter, React Native
 - Cloud Platforms: AWS (Lambda, EC2, S3, CloudFront, Route 53), DigitalOcean
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=#025373" />
+  <img src="https://img.shields.io/badge/ReactNative-white?style=flat&logo=ReactNative&logoColor=#025373" />
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1" />
+  <br>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=flat&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
+</div>
 
 ## Projects
 
